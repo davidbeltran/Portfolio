@@ -28,3 +28,4 @@ D:\afterGrad\c#\David\Portfolio\MySite\obj\Debug\net8.0\refint\MySite.dll
 D:\afterGrad\c#\David\Portfolio\MySite\obj\Debug\net8.0\MySite.pdb
 D:\afterGrad\c#\David\Portfolio\MySite\obj\Debug\net8.0\MySite.genruntimeconfig.cache
 D:\afterGrad\c#\David\Portfolio\MySite\obj\Debug\net8.0\ref\MySite.dll
+D:\afterGrad\c#\David\Portfolio\MySite\obj\Debug\net8.0\MySite.sourcelink.json
